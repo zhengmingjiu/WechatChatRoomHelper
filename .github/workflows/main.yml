@@ -25,4 +25,4 @@ jobs:
         run: |
           echo "开始进行release构建"
           chmod +x gradlew
-          ./gradlew app:assembleRelease
+          ./Wechat_chatroom_helper_android app:assembleRelease
